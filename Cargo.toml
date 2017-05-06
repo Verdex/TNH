@@ -1,0 +1,7 @@
+[package]
+name = "tnh"
+version = "0.1.0"
+authors = ["David L. Inman <davidlevere@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
